@@ -1,0 +1,7 @@
+G:\NTCBoard\NoticeBoardApi\IUserLogic\bin\Debug\IUserLogic.dll
+G:\NTCBoard\NoticeBoardApi\IUserLogic\bin\Debug\IUserLogic.pdb
+G:\NTCBoard\NoticeBoardApi\IUserLogic\bin\Debug\NoticeBoardDtos.dll
+G:\NTCBoard\NoticeBoardApi\IUserLogic\bin\Debug\NoticeBoardDtos.pdb
+G:\NTCBoard\NoticeBoardApi\IUserLogic\obj\Debug\IUser.csprojResolveAssemblyReference.cache
+G:\NTCBoard\NoticeBoardApi\IUserLogic\obj\Debug\IUserLogic.dll
+G:\NTCBoard\NoticeBoardApi\IUserLogic\obj\Debug\IUserLogic.pdb
