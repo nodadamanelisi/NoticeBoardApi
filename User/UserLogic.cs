@@ -9,12 +9,13 @@ using System.Threading.Tasks;
 
 namespace User
 {
-    public class UserLogic:ILogic
+    public class UserLogic : ILogic
     {
-        public void Login(Login input)
+        public Login Login(Login input)
         {
-            if (!Validations.IsAnyNullOrEmpty(input))
-                new DataAccessLogic.UserLogic().Login(input);
+               return (!Validations.IsAnyNullOrEmpty(input)) ? 
+                   (new DataAccessLogic.UserLogic().Login(input)):
+                   null;
         }
     }
 }

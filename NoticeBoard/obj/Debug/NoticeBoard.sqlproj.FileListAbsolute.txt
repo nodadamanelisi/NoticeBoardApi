@@ -1,0 +1,5 @@
+G:\NTCBoard\NoticeBoardApi\NoticeBoard\bin\Debug\NoticeBoard.dacpac
+G:\NTCBoard\NoticeBoardApi\NoticeBoard\bin\Debug\NoticeBoard.dll
+G:\NTCBoard\NoticeBoardApi\NoticeBoard\bin\Debug\NoticeBoard.pdb
+G:\NTCBoard\NoticeBoardApi\NoticeBoard\obj\Debug\NoticeBoard.dll
+G:\NTCBoard\NoticeBoardApi\NoticeBoard\obj\Debug\NoticeBoard.pdb

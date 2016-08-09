@@ -9,6 +9,6 @@ namespace IUserLogic
 {
     public interface ILogic
     {
-        void Login(Login input);
+        Login Login(Login input);
     }
 }

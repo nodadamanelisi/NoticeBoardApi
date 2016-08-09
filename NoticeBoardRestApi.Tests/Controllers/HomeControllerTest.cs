@@ -23,7 +23,8 @@ namespace NoticeBoardRestApi.Tests.Controllers
         [TestMethod]
         public void ShouldLogin()
         {
-             user.Login(loginInput);
+             var output = user.Login(loginInput);
+             Assert.IsNotNull(output);
         }
     }
 }

@@ -11,7 +11,7 @@ namespace DataAccessLogic
     public class NoticeBoardContext : DbContext 
     {
         public NoticeBoardContext()
-            : base()
+            : base("NoticeBoard")
         {
 
         }
