@@ -10,9 +10,9 @@ namespace NoticeBoardRestApi.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public void Index()
         {
-            return View();
+            //return View();
         }
         public void Login(Login input)
         {

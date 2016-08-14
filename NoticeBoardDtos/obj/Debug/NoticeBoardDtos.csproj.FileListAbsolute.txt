@@ -1,10 +1,10 @@
-G:\NTCBoard\NoticeBoardApi\NoticeBoardDtos\bin\Debug\EntityFramework.SqlServer.xml
 G:\NTCBoard\NoticeBoardApi\NoticeBoardDtos\bin\Debug\NoticeBoardDtos.dll.config
 G:\NTCBoard\NoticeBoardApi\NoticeBoardDtos\bin\Debug\NoticeBoardDtos.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardDtos\bin\Debug\NoticeBoardDtos.pdb
 G:\NTCBoard\NoticeBoardApi\NoticeBoardDtos\bin\Debug\EntityFramework.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardDtos\bin\Debug\EntityFramework.SqlServer.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardDtos\bin\Debug\EntityFramework.xml
+G:\NTCBoard\NoticeBoardApi\NoticeBoardDtos\bin\Debug\EntityFramework.SqlServer.xml
 G:\NTCBoard\NoticeBoardApi\NoticeBoardDtos\obj\Debug\NoticeBoardDtos.csprojResolveAssemblyReference.cache
 G:\NTCBoard\NoticeBoardApi\NoticeBoardDtos\obj\Debug\NoticeBoardDtos.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardDtos\obj\Debug\NoticeBoardDtos.pdb

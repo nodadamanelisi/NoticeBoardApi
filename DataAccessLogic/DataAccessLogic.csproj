@@ -62,10 +62,6 @@
       <Project>{a198a96b-e564-49f9-b086-43693b3aa591}</Project>
       <Name>NoticeBoardDtos</Name>
     </ProjectReference>
-    <ProjectReference Include="..\NoticeBoard\NoticeBoard.sqlproj">
-      <Project>{9267a7eb-dfaa-4a5b-a878-a7f411477703}</Project>
-      <Name>NoticeBoard</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
