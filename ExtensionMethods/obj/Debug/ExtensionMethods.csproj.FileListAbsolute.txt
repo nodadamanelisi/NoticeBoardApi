@@ -1,5 +1,4 @@
 G:\NTCBoard\NoticeBoardApi\ExtensionMethods\bin\Debug\ExtensionMethods.dll
 G:\NTCBoard\NoticeBoardApi\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
-G:\NTCBoard\NoticeBoardApi\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
 G:\NTCBoard\NoticeBoardApi\ExtensionMethods\obj\Debug\ExtensionMethods.dll
 G:\NTCBoard\NoticeBoardApi\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

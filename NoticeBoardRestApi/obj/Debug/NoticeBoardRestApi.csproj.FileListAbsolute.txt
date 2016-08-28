@@ -31,6 +31,8 @@ G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\ExtensionMethods.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\DataAccessLogic.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\IDataAccessLogic.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\EntityFramework.SqlServer.dll
+G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\Logger.dll
+G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\log4net.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\Events.pdb
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\IEventsLogic.pdb
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\IMeetings.pdb
@@ -55,6 +57,8 @@ G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\ExtensionMethods.pdb
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\DataAccessLogic.pdb
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\IDataAccessLogic.pdb
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\EntityFramework.SqlServer.xml
+G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\Logger.pdb
+G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\log4net.xml
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\de\Microsoft.Data.Edm.resources.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\es\Microsoft.Data.Edm.resources.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi\bin\fr\Microsoft.Data.Edm.resources.dll

@@ -26,9 +26,11 @@ G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\User.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\EntityFramework.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\IDataAccessLogic.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\EntityFramework.SqlServer.dll
+G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\Logger.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\System.Web.Optimization.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\System.Web.Http.Tracing.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\ExtensionMethods.dll
+G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\log4net.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\DataAccessLogic.pdb
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\Events.pdb
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\IEventsLogic.pdb
@@ -52,8 +54,10 @@ G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\System.Spatial.xml
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\EntityFramework.xml
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\IDataAccessLogic.pdb
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\EntityFramework.SqlServer.xml
+G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\Logger.pdb
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\System.Web.Http.Tracing.xml
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\ExtensionMethods.pdb
+G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\log4net.xml
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
 G:\NTCBoard\NoticeBoardApi\NoticeBoardRestApi.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll

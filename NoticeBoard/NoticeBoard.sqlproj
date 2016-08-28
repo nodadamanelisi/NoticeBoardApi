@@ -7,7 +7,7 @@
     <Name>NoticeBoard</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{9267a7eb-dfaa-4a5b-a878-a7f411477703}</ProjectGuid>
+    <ProjectGuid>{3e5580d8-875a-4b7b-8591-c03da689a9c2}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql110DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
@@ -57,5 +57,8 @@
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="Login.sql" />
   </ItemGroup>
 </Project>

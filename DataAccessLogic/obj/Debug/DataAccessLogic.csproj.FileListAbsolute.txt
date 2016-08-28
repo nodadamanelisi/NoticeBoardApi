@@ -4,11 +4,15 @@ G:\NTCBoard\NoticeBoardApi\DataAccessLogic\bin\Debug\DataAccessLogic.pdb
 G:\NTCBoard\NoticeBoardApi\DataAccessLogic\bin\Debug\EntityFramework.dll
 G:\NTCBoard\NoticeBoardApi\DataAccessLogic\bin\Debug\EntityFramework.SqlServer.dll
 G:\NTCBoard\NoticeBoardApi\DataAccessLogic\bin\Debug\IDataAccessLogic.dll
+G:\NTCBoard\NoticeBoardApi\DataAccessLogic\bin\Debug\Logger.dll
 G:\NTCBoard\NoticeBoardApi\DataAccessLogic\bin\Debug\NoticeBoardDtos.dll
+G:\NTCBoard\NoticeBoardApi\DataAccessLogic\bin\Debug\log4net.dll
 G:\NTCBoard\NoticeBoardApi\DataAccessLogic\bin\Debug\IDataAccessLogic.pdb
+G:\NTCBoard\NoticeBoardApi\DataAccessLogic\bin\Debug\Logger.pdb
 G:\NTCBoard\NoticeBoardApi\DataAccessLogic\bin\Debug\NoticeBoardDtos.pdb
 G:\NTCBoard\NoticeBoardApi\DataAccessLogic\bin\Debug\EntityFramework.xml
 G:\NTCBoard\NoticeBoardApi\DataAccessLogic\bin\Debug\EntityFramework.SqlServer.xml
+G:\NTCBoard\NoticeBoardApi\DataAccessLogic\bin\Debug\log4net.xml
 G:\NTCBoard\NoticeBoardApi\DataAccessLogic\obj\Debug\DataAccessLogic.csprojResolveAssemblyReference.cache
 G:\NTCBoard\NoticeBoardApi\DataAccessLogic\obj\Debug\DataAccessLogic.dll
 G:\NTCBoard\NoticeBoardApi\DataAccessLogic\obj\Debug\DataAccessLogic.pdb

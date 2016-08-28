@@ -6,12 +6,16 @@ G:\NTCBoard\NoticeBoardApi\Events\bin\Debug\NoticeBoardDtos.dll
 G:\NTCBoard\NoticeBoardApi\Events\bin\Debug\EntityFramework.dll
 G:\NTCBoard\NoticeBoardApi\Events\bin\Debug\IDataAccessLogic.dll
 G:\NTCBoard\NoticeBoardApi\Events\bin\Debug\EntityFramework.SqlServer.dll
+G:\NTCBoard\NoticeBoardApi\Events\bin\Debug\Logger.dll
+G:\NTCBoard\NoticeBoardApi\Events\bin\Debug\log4net.dll
 G:\NTCBoard\NoticeBoardApi\Events\bin\Debug\DataAccessLogic.pdb
 G:\NTCBoard\NoticeBoardApi\Events\bin\Debug\IEventsLogic.pdb
 G:\NTCBoard\NoticeBoardApi\Events\bin\Debug\NoticeBoardDtos.pdb
 G:\NTCBoard\NoticeBoardApi\Events\bin\Debug\EntityFramework.xml
 G:\NTCBoard\NoticeBoardApi\Events\bin\Debug\IDataAccessLogic.pdb
 G:\NTCBoard\NoticeBoardApi\Events\bin\Debug\EntityFramework.SqlServer.xml
+G:\NTCBoard\NoticeBoardApi\Events\bin\Debug\Logger.pdb
+G:\NTCBoard\NoticeBoardApi\Events\bin\Debug\log4net.xml
 G:\NTCBoard\NoticeBoardApi\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
 G:\NTCBoard\NoticeBoardApi\Events\obj\Debug\Events.dll
 G:\NTCBoard\NoticeBoardApi\Events\obj\Debug\Events.pdb

@@ -1,0 +1,6 @@
+G:\NTCBoard\NoticeBoardApi\Logger\bin\Debug\Logger.dll
+G:\NTCBoard\NoticeBoardApi\Logger\bin\Debug\Logger.pdb
+G:\NTCBoard\NoticeBoardApi\Logger\bin\Debug\log4net.dll
+G:\NTCBoard\NoticeBoardApi\Logger\bin\Debug\log4net.xml
+G:\NTCBoard\NoticeBoardApi\Logger\obj\Debug\Logger.dll
+G:\NTCBoard\NoticeBoardApi\Logger\obj\Debug\Logger.pdb

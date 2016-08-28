@@ -7,6 +7,8 @@ G:\NTCBoard\NoticeBoardApi\User\bin\Debug\IUserLogic.dll
 G:\NTCBoard\NoticeBoardApi\User\bin\Debug\NoticeBoardDtos.dll
 G:\NTCBoard\NoticeBoardApi\User\bin\Debug\EntityFramework.dll
 G:\NTCBoard\NoticeBoardApi\User\bin\Debug\EntityFramework.SqlServer.dll
+G:\NTCBoard\NoticeBoardApi\User\bin\Debug\Logger.dll
+G:\NTCBoard\NoticeBoardApi\User\bin\Debug\log4net.dll
 G:\NTCBoard\NoticeBoardApi\User\bin\Debug\DataAccessLogic.pdb
 G:\NTCBoard\NoticeBoardApi\User\bin\Debug\ExtensionMethods.pdb
 G:\NTCBoard\NoticeBoardApi\User\bin\Debug\IDataAccessLogic.pdb
@@ -14,6 +16,8 @@ G:\NTCBoard\NoticeBoardApi\User\bin\Debug\IUserLogic.pdb
 G:\NTCBoard\NoticeBoardApi\User\bin\Debug\NoticeBoardDtos.pdb
 G:\NTCBoard\NoticeBoardApi\User\bin\Debug\EntityFramework.xml
 G:\NTCBoard\NoticeBoardApi\User\bin\Debug\EntityFramework.SqlServer.xml
+G:\NTCBoard\NoticeBoardApi\User\bin\Debug\Logger.pdb
+G:\NTCBoard\NoticeBoardApi\User\bin\Debug\log4net.xml
 G:\NTCBoard\NoticeBoardApi\User\obj\Debug\User.csprojResolveAssemblyReference.cache
 G:\NTCBoard\NoticeBoardApi\User\obj\Debug\User.dll
 G:\NTCBoard\NoticeBoardApi\User\obj\Debug\User.pdb

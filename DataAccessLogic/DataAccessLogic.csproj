@@ -58,6 +58,10 @@
       <Project>{503e49d3-0437-47c9-a247-024eec5a4aa0}</Project>
       <Name>IDataAccessLogic</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Logger\Logger.csproj">
+      <Project>{d4ed2ba1-0ddd-4731-8597-c4b633fa7ccc}</Project>
+      <Name>Logger</Name>
+    </ProjectReference>
     <ProjectReference Include="..\NoticeBoardDtos\NoticeBoardDtos.csproj">
       <Project>{a198a96b-e564-49f9-b086-43693b3aa591}</Project>
       <Name>NoticeBoardDtos</Name>

@@ -6,12 +6,16 @@ G:\NTCBoard\NoticeBoardApi\Meetings\bin\Debug\NoticeBoardDtos.dll
 G:\NTCBoard\NoticeBoardApi\Meetings\bin\Debug\EntityFramework.dll
 G:\NTCBoard\NoticeBoardApi\Meetings\bin\Debug\IDataAccessLogic.dll
 G:\NTCBoard\NoticeBoardApi\Meetings\bin\Debug\EntityFramework.SqlServer.dll
+G:\NTCBoard\NoticeBoardApi\Meetings\bin\Debug\Logger.dll
+G:\NTCBoard\NoticeBoardApi\Meetings\bin\Debug\log4net.dll
 G:\NTCBoard\NoticeBoardApi\Meetings\bin\Debug\DataAccessLogic.pdb
 G:\NTCBoard\NoticeBoardApi\Meetings\bin\Debug\IMeetings.pdb
 G:\NTCBoard\NoticeBoardApi\Meetings\bin\Debug\NoticeBoardDtos.pdb
 G:\NTCBoard\NoticeBoardApi\Meetings\bin\Debug\EntityFramework.xml
 G:\NTCBoard\NoticeBoardApi\Meetings\bin\Debug\IDataAccessLogic.pdb
 G:\NTCBoard\NoticeBoardApi\Meetings\bin\Debug\EntityFramework.SqlServer.xml
+G:\NTCBoard\NoticeBoardApi\Meetings\bin\Debug\Logger.pdb
+G:\NTCBoard\NoticeBoardApi\Meetings\bin\Debug\log4net.xml
 G:\NTCBoard\NoticeBoardApi\Meetings\obj\Debug\Meetings.csprojResolveAssemblyReference.cache
 G:\NTCBoard\NoticeBoardApi\Meetings\obj\Debug\Meetings.dll
 G:\NTCBoard\NoticeBoardApi\Meetings\obj\Debug\Meetings.pdb
